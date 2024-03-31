@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in ft7_1_val_1_bismark_bt2_pe.bam:	104728489
+Total number duplicated alignments removed:	18104995 (17.29%)
+Duplicated alignments were found at:	14615325 different position(s)
+
+Total count of deduplicated leftover sequences: 86623494 (82.71% of total)
+

@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in eg7_1_val_1_bismark_bt2_pe.bam:	24269212
+Total number duplicated alignments removed:	6328618 (26.08%)
+Duplicated alignments were found at:	4205603 different position(s)
+
+Total count of deduplicated leftover sequences: 17940594 (73.92% of total)
+

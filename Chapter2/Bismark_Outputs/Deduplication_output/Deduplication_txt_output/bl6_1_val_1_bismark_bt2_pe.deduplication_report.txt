@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in bl6_1_val_1_bismark_bt2_pe.bam:	53672401
+Total number duplicated alignments removed:	10504905 (19.57%)
+Duplicated alignments were found at:	8158768 different position(s)
+
+Total count of deduplicated leftover sequences: 43167496 (80.43% of total)
+

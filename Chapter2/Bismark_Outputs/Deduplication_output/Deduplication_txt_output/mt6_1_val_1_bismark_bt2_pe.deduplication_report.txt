@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in mt6_1_val_1_bismark_bt2_pe.bam:	71450433
+Total number duplicated alignments removed:	12069981 (16.89%)
+Duplicated alignments were found at:	9767910 different position(s)
+
+Total count of deduplicated leftover sequences: 59380452 (83.11% of total)
+

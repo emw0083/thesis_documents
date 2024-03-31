@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in tt8_1_val_1_bismark_bt2_pe.bam:	37243685
+Total number duplicated alignments removed:	7932752 (21.30%)
+Duplicated alignments were found at:	6003538 different position(s)
+
+Total count of deduplicated leftover sequences: 29310933 (78.70% of total)
+
